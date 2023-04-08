@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "588049674451",
+    "project_id": "engagro-6aabb",
+    "storage_bucket": "engagro-6aabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588049674451:android:bfb6ca2b04a8d94ad96426",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588049674451-bdi86bhbvbl1ea5c8827pl4155c34r1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6_ZUlyCFoczinIM3VlyjlZYeddzdte88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588049674451-bdi86bhbvbl1ea5c8827pl4155c34r1d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588049674451-pi3o6c0d19gkv90ib65qecor706kfjng.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
